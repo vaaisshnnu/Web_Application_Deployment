@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>CI/CD Deployment | Ganga Vaishnu Reddy</title>
+  <title>CI/CD Application Deployment Project with Jenkins | Ganga Vaishnu Reddy</title>
   <style>
     * {
       margin: 0;
@@ -81,7 +81,7 @@
 <body>
 
   <header>
-    <h1>CI/CD Deployment Project</h1>
+    <h1> CI/CD Application Deployment Project with Jenkins</h1>
     <h2>by Ganga Vaishnu Reddy</h2>
     <p class="description">
       This project demonstrates a complete CI/CD pipeline integrating <strong>Jenkins</strong>,
