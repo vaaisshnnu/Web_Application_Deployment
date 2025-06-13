@@ -89,16 +89,16 @@
       It ensures seamless and automated deployment straight from source to production.
     </p>
 
-    <div class="buttons">
-      <a href="https://github.com/vaaisshnnu/" target="_blank">👨‍💻 GitHub Profile</a>
-      <a href="https://www.linkedin.com/in/vaaisshnnu-reddy/" target="_blank">🌐 LinkedIn Profile</a>
-    </div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-    <div class="attachments">
-      <p><strong>Attachments:</strong></p>
-      <a href="path/to/Project-Documentation.pdf" target="_blank">📄 Project Documentation</a>
-    </div>
-  </header>
+<div class="buttons">
+  <a href="https://github.com/vaaisshnnu/" target="_blank">
+    <i class="fab fa-github"></i> GitHub Profile
+  </a>
+  <a href="https://www.linkedin.com/in/vaaisshnnu-reddy/" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn Profile
+  </a>
+</div>
 
   <footer>
     © 2025 Ganga Vaishnu Reddy. All rights reserved.
