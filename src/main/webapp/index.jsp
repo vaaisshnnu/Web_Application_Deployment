@@ -97,7 +97,6 @@
     <div class="attachments">
       <p><strong>Attachments:</strong></p>
       <a href="path/to/Project-Documentation.pdf" target="_blank">📄 Project Documentation</a>
-      <a href="path/to/Resume.pdf" target="_blank">📎 Resume</a>
     </div>
   </header>
 
