@@ -101,9 +101,9 @@
 </div>
 
   <footer>
-  👨‍💻 Proudly built using Jenkins, GitHub, Maven, Tomcat, and AWS EC2. <br>
-  📈 This is not just a project, it's a proof of practice. <br>
-  🔗 <a href="https://github.com/vaaisshnnu" target="_blank" style="color: #00ffc8;">GitHub</a> | <a href="https://www.linkedin.com/in/vaaisshnnu-reddy" target="_blank" style="color: #00ffc8;">LinkedIn</a>
+  Proudly built using Jenkins, GitHub, Maven, Tomcat, and AWS EC2.
+  This is not just a project, it's a proof of practice
+  href="https://github.com/vaaisshnnu" target="_blank" style="color: #00ffc8;">GitHub</a> | href="https://www.linkedin.com/in/vaaisshnnu-reddy" target="_blank" style="color: #00ffc8;">LinkedIn</a>
 </footer>
 
 
